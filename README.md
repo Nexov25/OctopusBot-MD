@@ -50,7 +50,7 @@ git clone https://github.com/hirohito-xyz/OctopusBot-MD
 cd OctopusBot-MD
 npm start
 ```
----------
+
 ## ```Me Social Media```
   <a href="https://wa.me/6281513947940">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
@@ -65,7 +65,7 @@ npm start
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
-## Special Thanks to
+## `Big Thanks To`
 [![DGXeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon)
-## Recode By
-[![Hiro](https://github.com/hirohito-xyz.png?size=100)](https://github.com/hirohito-xyz)
+## `Recode By`
+[![Hirohito](https://github.com/hirohito-xyz.png?size=100)](https://github.com/hirohito-xyz)
