@@ -1,7 +1,7 @@
 {
  "name": "OctopusBot-MD",
  "description": "Multi Device Whatsapp Bot",
- "version": "3.0.0",
+ "version": "4.0.0",
  "main": "index.js",
  "type": "commonjs",
  "scripts": {
@@ -86,10 +86,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/DGXeon/CheemsBot-MD3.git"
+  "url": "git+https://github.com/hirohito-xyz/OctopusBot-MD.git"
  },
  "bugs": {
-  "url": "https://github.com/DGXeon/CheemsBot-MD3/issues"
+  "url": "https://github.com/hirohito-xyz/OctopusBot-MD/issues"
  },
- "homepage": "https://github.com/DGXeon/CheemsBot-MD3#readme"
+ "homepage": "https://github.com/hirohito-xyz/OctopusBot-MD#readme"
 }
