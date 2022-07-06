@@ -35,7 +35,7 @@ console.log(color(figlet.textSync('OCTOPUS-BOT', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'aqua'))
-console.log(color('♨️OCTOPUS BOT INC. 2022♨️','aqua'));
+console.log(color('OCTOPUS BOT INC. 2022','aqua'));
 console.log(color('➡︎','cyan'), color('Recode By HirohitoXyz', 'aqua'));
 console.log(color('➡︎','cyan'), color('Source Code Version: 3.0.0', 'aqua'));
 console.log(color('➡︎','cyan'), color('Script Ini Berasal dari Source Xeon Bot Inc.', 'aqua'));
