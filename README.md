@@ -1,6 +1,5 @@
 ## `OctopusBot-MD`
 <p align="center">
-<p align="center">
 <img src="https://telegra.ph/file/ce3324d6ef0e104af2be7.jpg" alt="animated" width="550" height="268" />
 </p>
 <p align="center">
@@ -52,7 +51,7 @@ cd OctopusBot-MD
 npm start
 ```
 ---------
-## ```Me Social Media``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+## ```Me Social Media```
   <a href="https://wa.me/6281513947940">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
