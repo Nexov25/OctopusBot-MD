@@ -1,6 +1,6 @@
 ## `OctopusBot-MD`
 <p align="center">
-<img src="https://telegra.ph/file/1d2fcdd563d6dc77ffeab.jpg" alt="animated" width="350" height="250" />
+<img src="https://telegra.ph/file/1d2fcdd563d6dc77ffeab.jpg" alt="animated" width="350" height="240" />
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp Bot" src="https://img.shields.io/badge/WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
