@@ -33,7 +33,7 @@ global.socialm = "Instagram: dzk_aufa" //ur github or insta name
 global.location = "Indonesia, Jawa Barat, Karawang" //ur location
 
 //bot body
-global.botname = "OctopusBot" //ur bot name
+global.botname = "OctopusBot Inc" //ur bot name
 global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = fs.readFileSync("./OctopusMedia/video/thumb-anime.mp4") //gif and video menu
 global.packname = "WhatsApp Bot"
