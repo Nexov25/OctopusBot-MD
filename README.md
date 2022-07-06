@@ -67,5 +67,7 @@ npm start
 
 ## `Big Thanks To`
 [![DGXeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon)
+[![adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)
+
 ## `Recode By`
 [![Hirohito](https://github.com/hirohito-xyz.png?size=100)](https://github.com/hirohito-xyz)
