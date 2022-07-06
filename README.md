@@ -31,7 +31,7 @@ Click To Deploy To Heroku
 
 ## `Join Group Bot`
 <p align="center">
-<a href="https://chat.whatsapp.com/EiZg8mngCjzH9d5ReEz0xm"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/H4VWippJbISFfSFZKVTSz9"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## `For Termux`
