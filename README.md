@@ -64,3 +64,8 @@ npm start
   <a href="mailto: mongodebe@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
+
+## Special Thanks to
+[![DGXeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon)
+## Recode By
+[![Hiro](https://github.com/hirohito-xyz.png?size=100)](https://github.com/hirohito-xyz)
