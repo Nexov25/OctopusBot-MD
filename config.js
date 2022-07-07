@@ -75,7 +75,7 @@ global.ntilink = []
 
 //other
 global.lolhuman = "KaysaS"
-global.sessionName = "mang-D"
+global.sessionName = "nama-session-elu"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
