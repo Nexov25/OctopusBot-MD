@@ -74,7 +74,7 @@ global.autorep = []
 global.ntilink = []
 
 //other
-global.lolhuman = "KaysaS"
+global.lolhuman = "Isi Api Key Ente"
 global.sessionName = "nama-session-elu"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
