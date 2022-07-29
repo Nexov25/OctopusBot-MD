@@ -46,13 +46,10 @@ Click To Deploy To Heroku
 apt update
 apt upgrade
 pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
+pkg install git
+pkg install nodejs
+pkg install ffmpeg
+pkg install imagemagick
 git clone https://github.com/hirohito-xyz/OctopusBot-MD
 cd OctopusBot-MD
 npm start
