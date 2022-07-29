@@ -1,6 +1,6 @@
 ## `OctopusBot-MD`
 <p align="center">
-    <img src="https://github.com/hirohito-xyz/OctopusBot-MD/blob/master/OctopusMedia/video/tenor.gif" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://github.com/hirohito-xyz/OctopusBot-MD/blob/master/OctopusMedia/theme/tema.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <p align="center">
