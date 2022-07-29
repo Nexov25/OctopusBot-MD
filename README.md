@@ -54,6 +54,19 @@ git clone https://github.com/hirohito-xyz/OctopusBot-MD
 cd OctopusBot-MD
 npm start
 ```
+## `For Vps Ubuntu/Linux`
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt update && pkg upgrade
+sudo apt install git
+sudo apt install nodejs
+sudo apt install ffmpeg
+sudo apt install imagemagick
+git clone https://github.com/hirohito-xyz/OctopusBot-MD
+cd OctopusBot-MD
+npm start
+```
 
 ## `Big Thanks To`
 [![DGXeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon)
