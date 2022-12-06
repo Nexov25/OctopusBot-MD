@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/hirohito-xyz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-hirohito xyz-yellow.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Nexov25"><img title="Author" src="https://img.shields.io/badge/AUTHOR-hirohito xyz-yellow.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
-    <a href="https://hirohito_xyz.github.io">
+    <a href="https://Nexov25.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=OctopusBot-MD+By+Hirohito_xyz"
             alt="By Hirohito"
@@ -77,4 +77,4 @@ npm start
 [![adiwajshing](https://github.com/adiwajshing.png?size=100)](https://github.com/adiwajshing)
 
 ## `Recode By`
-[![Hirohito](https://github.com/hirohito-xyz.png?size=100)](https://github.com/hirohito-xyz)
+[![Hirohito](https://github.com/Nexov25.png?size=100)](https://github.com/Nexov25)
